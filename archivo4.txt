@@ -1,0 +1,1 @@
+Este es el fichero archivo4.txt creado desde GitHub para comprobar como funciona el comando "git pull".
